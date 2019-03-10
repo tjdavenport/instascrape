@@ -1,0 +1,12 @@
+{
+  "name": "instascrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tjdavenport/instascrape.git",
+  "author": "tjdavenport <tjdavenport2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
